@@ -1,2 +1,9 @@
-je m'appelle louis
-testselicduv
+theme: voyage culturel
+secteur: Europe (principalement europe de l'est)
+lieux peu connus
+    les grzndes villes
+    la culture(paysage, nourriture, traditions)
+    lieux célèbres
+pays connus (ex france)
+    endroits peu connus 
+    
