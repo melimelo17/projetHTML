@@ -7,7 +7,7 @@ mobile : 0-767px
 tablette : 768-1023
 ordi: le reste ([1024; +infini[)
 trouver un nom
-et un logo
+24H voyage
 palette de couleurs:
     #245B63 bleu pétrole 20% (header, footer titres principaux + textes sombres)
     #43877D vert eucalyptus 10% (sous-titres, icones, arrière-plans, encarts)
