@@ -1,4 +1,19 @@
 /* pour téléphone */
-.Titre1 {
-    
+html, body{
+    margin: 0;
+    padding: 0;
+
+}
+#Titre1 {
+    color: red;
+}
+
+body {
+    background-color: #E8D9BD;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #245B63;
 }
