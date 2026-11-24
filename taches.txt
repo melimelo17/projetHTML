@@ -14,4 +14,3 @@ palette de couleurs:
     #9EB7A0 vert sauge 5% ( séparateur, badges, survols de boutons ou fonds de sections secondaires)
     #E8D9BD sable doux 60% (arrière plans des pages (avec blanc si possible)) à alterner avec blanc cassé #FAF7F2
     #C49345 ocre doré 5% (bouton d'appel à l'action, liens importants et éléms à faire ressortir)
-
